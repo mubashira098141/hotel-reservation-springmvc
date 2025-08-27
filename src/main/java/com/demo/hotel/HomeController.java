@@ -2,7 +2,7 @@ package com.demo.hotel;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
-
+//mubashira
 @Controller
 public class HomeController {
 
